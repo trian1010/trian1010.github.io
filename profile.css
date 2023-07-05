@@ -1,0 +1,54 @@
+p,
+ul,
+ol {
+    font-family: 'Times New Roman';
+    font-size: 23px;
+}
+.Rlogo {
+    width: 200px;
+    display: block;
+}
+
+.ava {
+    width: 200px;
+    border-radius: 180px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.name {
+    margin-left: 60px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.intro {
+    font-style: italic;
+}
+
+.hb {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.lang {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cn {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.fb,
+.gm,
+.ins {
+    width: 50px;
+    margin-left: 7px;
+}
+
+
+
+
